@@ -115,6 +115,7 @@ Tokens CParser (Tokens nextToken) {
 	if (nextToken == C) {
 		nextToken = tokenizer();
 	}
+	else errMsg ("expecting c");
 	return nextToken;
 }
 

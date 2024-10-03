@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/suarezcruzrosy/Desktop/TokenizerParse",
-      "program": "/Users/suarezcruzrosy/Desktop/TokenizerParse/build/Debug/outDebug"
+      "cwd": "/Users/suarezcruzrosy/Desktop/TokenizerParser",
+      "program": "/Users/suarezcruzrosy/Desktop/TokenizerParser/build/Debug/outDebug"
     }
   ]
 }
